@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Sou desenvolvedor Front-End desde 2016, atualmente trabalho usando Angular, RxJS, Pré-processador SCSS.
+
+
+[LinkedIn](https://www.linkedin.com/in/paulopereiradosanjos/)
+
 <!--
 **panjosbr/panjosbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
