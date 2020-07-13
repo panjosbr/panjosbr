@@ -2,6 +2,7 @@
 
 Sou desenvolvedor Front-End desde 2016, atualmente trabalho usando Angular, RxJS, Pré-processador SCSS.
 
+No meu tempo livre curto assistir séries/filmes, streams de games e jogar no PC ou celular (VALORANT, Path of Exile, Archero, Pokemon GO).
 
 [LinkedIn](https://www.linkedin.com/in/paulopereiradosanjos/)
 
